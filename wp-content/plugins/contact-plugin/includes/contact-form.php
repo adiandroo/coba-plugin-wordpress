@@ -16,7 +16,6 @@ function setup_search() {
 }
 
 function submission_search_override($search, $query) {
-      // Override the submissions page search to include custom meta data
 
       global $wpdb;
 
