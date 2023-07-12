@@ -34,7 +34,6 @@ function submission_search_override($search, $query) {
                   $search
             );
       }
-
       return $search;
 }
 
